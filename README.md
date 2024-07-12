@@ -7,3 +7,9 @@ Frontend Mentor: A showcase of my front-end skills. This collection features my 
 
 ![Preview](qr-code/desktop-preview.jpg)
 [^1]: Only for PC (not mobile).
+
+### Blog preview card
+[Live](https://panwor.github.io/frontendmentor-my-solutions/blog-preview-card/) | [Repo](blog-preview-card) | [Try Out](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+
+![Preview](blog-preview-card/design/desktop-preview.jpg)
+[^1]: Only for PC (not mobile).
