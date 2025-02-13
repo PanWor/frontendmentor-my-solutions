@@ -15,5 +15,5 @@ Frontend Mentor: A showcase of my front-end skills. This collection features my 
 ### Social links profile
 [Live](https://panwor.github.io/frontendmentor-my-solutions/social-links-profile/) | [Repo](social-links-profile) | [Try Out](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
-![Preview](social-links-profile/design/desktop-preview.jpg)
+![Preview](social-links-profile/preview.jpg)
 [^1]: Only for PC (not mobile).
